@@ -6,7 +6,7 @@
    Este repositorio tem como foco apresentar uma coletania de problemas e algoritmos solucionados em Assembly MIPS. 
    
   - ### Desenvolvimento
-   As soluções apresentados foram desenvolvidos utilizando o simludor [MARS](https://courses.missouristate.edu/KenVollmar/mars/) durante o meu periodo como monitor da disciplina de Arquitetura e Organização de Computadores na [UFU](https://www.ufu.br) (Universide Federal de Uberlândia) Campus Monte Carmelo, tendo como orientador o professor [Diego Nunes Molinos](https://github.com/DiegoMolinos).
+   As soluções apresentados foram desenvolvidos utilizando o simludor [MARS](https://courses.missouristate.edu/KenVollmar/mars/) durante o meu periodo como monitor da disciplina de Arquitetura e Organização de Computadores na [UFU](https://www.ufu.br) (Universide Federal de Uberlândia) Campus Monte Carmelo, tendo como orientador o professor [Diego Nunes Molinos](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=97A15A0898CAF4DB19D1373F828FFCBC.buscatextual_0).
    
   - ### Objetivo
    O objetos desta coletania é auxiliar os alunos da disciplina a obterem um melhor entendimento das questões que envolvem o conjunto de intruções da arquitetura ([ISA](https://www.cs.cmu.edu/afs/cs/academic/class/15740-f97/public/doc/mips-isa.pdf)) e a linguagem de descrição de comportamento Assembly. 
