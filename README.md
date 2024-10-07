@@ -32,4 +32,4 @@ Aqui segue uma descrição de um dos problemas resolvidos:
 >   Cada vez que a função do gerador é chamada, o próximo número pseudoaleatório é gerado e armazenado para uso futuro. Esse código pode ser utilizado em várias aplicações, como simulações e jogos, onde não há necessidade de números verdadeiramente aleatórios, mas onde a aleatoriedade aparente é suficiente.
 
 
-Para acessar a solução deste problema, clique [aqui]().
+Para acessar a solução deste problema, clique [aqui](https://github.com/RvXp/Assembly-mips/blob/main/pseudoaleatorios.asm).
