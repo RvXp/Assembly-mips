@@ -23,7 +23,7 @@ Aqui segue uma descrição dos problemas resolvidos:
 
 > A fórmula utilizada para o cálculo do próximo elemento é:
 
-<p align="center"><strong>próximo valor = (a * semente + c) mod m</strong></p>
+> <p align="center"><strong>próximo valor = (a * semente + c) mod m</strong></p>
 
 > Onde:
 > - a é o multiplicador
@@ -62,4 +62,4 @@ Para acessar a solução deste problema, clique [aqui](https://github.com/RvXp/A
 
 > Essa implementação realiza a busca em um vetor fixo de cinco elementos, onde cada posição da memória do vetor é manipulada com operações de divisão e multiplicação para garantir o correto endereçamento de memória.
 
-Para acessar a solução deste problema, clique [aqui]().
+Para acessar a solução deste problema, clique [aqui](https://github.com/RvXp/Assembly-mips/blob/main/busca_binaria.asm).
