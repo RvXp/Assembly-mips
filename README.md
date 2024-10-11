@@ -14,7 +14,7 @@
 ### Problemas
 Aqui segue uma descrição de um dos problemas resolvidos:
 
-> **Problema 1**: O código a seguir em Assembly MIPS implementa um gerador de números pseudoaleatórios utilizando um método simples baseado em multiplicação e soma, técnica conhecida como Linear Congruential Generator (LCG). Esse método é amplamente utilizado para gerar sequências que aparentam ser aleatórias, embora sejam determinísticas, ou seja, a partir de um número inicial (a semente), ele segue uma sequência pré-definida.
+> **Problema 1**: O código a seguir implementa um gerador de números pseudoaleatórios utilizando um método simples baseado em multiplicação e soma, técnica conhecida como Linear Congruential Generator (LCG). Esse método é amplamente utilizado para gerar sequências que aparentam ser aleatórias, embora sejam determinísticas, ou seja, a partir de um número inicial (a semente), ele segue uma sequência pré-definida.
 
 > Na lógica do código, temos três componentes essenciais:
 > 1. **Semente** (Seed): Valor inicial fornecido ao gerador para iniciar a sequência. A partir dessa semente, os próximos valores da sequência são calculados.
@@ -33,3 +33,20 @@ Aqui segue uma descrição de um dos problemas resolvidos:
 
 
 Para acessar a solução deste problema, clique [aqui](https://github.com/RvXp/Assembly-mips/blob/main/pseudoaleatorios.asm).
+
+> **Problema 2**: O código apresentado a seguir implementa o algoritmo de ordenação [Bubble Sort](https://www.geeksforgeeks.org/bubble-sort-algorithm/), que percorre repetidamente uma lista, comparando elementos adjacentes e trocando-os se o elemento a direita for maior que o elemento a esquerda. Esse é um dos algoritmos de ordenação clássicos, e mesmo sendo visto como ineficiente atualmente ainda sim é muito presente no campo acadêmico para o aprendizado de conceitos fundamentais.
+
+
+> A partir de um vetor de inteiros predefinidos e executa as seguinte operações :
+
+
+> 1. É realizado inicialmentte um setup para controle dos indices utilizados no processo de repetição.
+> 2. O loop externo percorre o vetor multipis vezes, atualizando os valores necessarios para o loop interno.
+> 3. O loop interno percorre o vetor realizando as comparações.
+> 4. Caso seja necessario uma troca, o label if possui as operações de troca e de atualização na memoria.
+> 5. Por fim o vetor ordenado é exibido.
+
+> A lógica por trás do código também mostra como o Assembly manipula diretamente os valores na memória, movendo elementos de um vetor e trocando-os conforme necessário.
+
+Para acessar a solução deste problema, clique [aqui]().
+
