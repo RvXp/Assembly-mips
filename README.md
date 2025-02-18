@@ -32,7 +32,7 @@ Aqui segue uma descrição dos problemas resolvidos:
 
 > Cada vez que a função do gerador é chamada, o próximo número pseudoaleatório é gerado e armazenado para uso futuro. Esse código pode ser utilizado em várias aplicações, como simulações e jogos, onde não há necessidade de números verdadeiramente aleatórios, mas onde a aleatoriedade aparente é suficiente.
 
-Para acessar a solução deste problema, clique [aqui]().
+Para acessar a solução deste problema, clique [aqui](https://github.com/RvXp/Assembly-mips/blob/main/pseudoaleatorios.asm).
 > **Problema 2**: O código apresentado a seguir implementa o algoritmo de ordenação [Bubble Sort](https://www.geeksforgeeks.org/bubble-sort-algorithm/), que percorre repetidamente uma lista, comparando elementos adjacentes e trocando-os se o elemento a direita for maior que o elemento a esquerda. Esse é um dos algoritmos de ordenação clássicos, e mesmo sendo visto como ineficiente atualmente ainda sim é muito presente no campo acadêmico para o aprendizado de conceitos fundamentais.
 
 
